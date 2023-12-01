@@ -1,6 +1,3 @@
-# GlassesShop
- This project leverages Django Rest Framework to build APIs for an online shop.
-
 # Online Shop API using Django Rest Framework
 
 This project leverages Django Rest Framework to build APIs for an online shop.
@@ -26,7 +23,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/online-shop-api.git
+git clone https://github.com/samanahmadi04/GlassesShop.git
 
 # Change into the project directory
 cd online-shop-api
@@ -41,9 +38,9 @@ python manage.py migrate
 python manage.py runserver
 
 # Usage
-how to use api .. should add it later
+Documentation is available at [your-server-url]/api/schema/swagger-ui/
 
 # Contact
-# Saman Ahmadi
-# samanahmadi014@gmail.com
-# https://t.me/sahmadi04 (Telegram)
+- Saman Ahmadi
+- Email: [samanahmadi014@gmail.com](mailto:samanahmadi014@gmail.com)
+- Telegram: [Saman Ahmadi](https://t.me/sahmadi04)
